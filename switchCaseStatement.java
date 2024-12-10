@@ -129,7 +129,7 @@ String locale = "np";
 switch (locale){
     case "en/us or en/uk":
           System.out.println("Selected english");
-    break;
+    break; 
     case "in":
     System.out.println("Selected Indian");
     break;
